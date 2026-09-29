@@ -97,7 +97,7 @@ export const siteContent: SiteContent = {
     showreelVideoId: SHOWREEL_VIDEO_ID,
     showreelUrl: youtubeWatchUrl(SHOWREEL_VIDEO_ID),
     posterImage: youtubeThumbnailUrl(SHOWREEL_VIDEO_ID),
-    profileImage: "/images/alankrit.jpeg",
+    profileImage: "/images/IMG_0592.JPG",
   },
   social: {
     instagram: "https://www.instagram.com/alankritt_sharma?utm_source=qr",
